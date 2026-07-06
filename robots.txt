@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /cart_items/
+Disallow: /client_account/
+Disallow: /orders/
+Disallow: /favorites/
+Disallow: /compares/
+Disallow: /search/
+Disallow: /login/
+
+Sitemap: https://sadovodshop.ru/sitemap.xml
+Host: sadovodshop.ru

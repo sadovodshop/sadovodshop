@@ -1,0 +1,12 @@
+# Sadovodshop
+
+Интернет-магазин Sadovodshop: комплекты источников бесперебойного питания (ИБП), аккумуляторы, инверторы, солнечные панели. Крупный каталог из 1100+ товаров.
+
+## Разделы
+- [Каталог](https://sadovodshop.ru/collection/all/): весь ассортимент
+- [Комплекты 500 Вт](https://sadovodshop.ru/collection/komplekty-500-Vt/)
+- [Комплекты 1000 Вт](https://sadovodshop.ru/collection/komplekty-1000-vt/)
+- [Комплекты 1500 Вт](https://sadovodshop.ru/collection/komplekty-1500-vt/)
+- [Комплекты для газовых котлов](https://sadovodshop.ru/collection/dlya-gazovyh-kotlov/)
+- [Солнечные комплекты](https://sadovodshop.ru/collection/solnechnye-komplekty/)
+- Связь: info@sadovodshop.ru
