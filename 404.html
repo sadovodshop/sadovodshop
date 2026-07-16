@@ -20,7 +20,14 @@
 .page404 .footer-links { margin-top: 24px; padding: 12px 0 0; border-top: 1px solid #e6ebee; font-size: 14px; }
 .page404 .footer-links a { color: #2c5c2a; margin-right: 12px; }
 </style>
-</head><body>
+<style id="pz-card-fix">
+.owl-carousel .item .product, .products .product { min-height: 380px; display: flex; flex-direction: column; }
+.owl-carousel .item .product .product-image { min-height: 240px; }
+.owl-carousel .item .product .product-title { flex: 1 0 auto; min-height: 40px; }
+.products .row.owl-carousel { align-items: stretch; }
+.owl-carousel .item { display: flex; }
+.owl-carousel .item > div { width: 100%; }
+</style></head><body>
 <div class="page404">
 <h1>Страница не найдена</h1>
 <p class="lead">Возможно, вы перешли по устаревшей ссылке, товар был снят с продажи или адрес введён с ошибкой.</p>
